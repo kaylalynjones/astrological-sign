@@ -1,4 +1,4 @@
 astrological-sign
 =================
 
-This app will tell you your age and your astrological sign.
+This app will calculate your age and zodiac sign from your birthdate.
